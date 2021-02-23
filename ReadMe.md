@@ -1,4 +1,4 @@
-# Family
+# GoldenCrown
 
 This project is based on npm build system.
 
